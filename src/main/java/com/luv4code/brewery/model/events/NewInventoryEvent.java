@@ -1,4 +1,4 @@
-package lfc.common.events;
+package com.luv4code.brewery.model.events;
 
 import lombok.NoArgsConstructor;
 

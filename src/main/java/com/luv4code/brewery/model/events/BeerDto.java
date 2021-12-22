@@ -1,4 +1,4 @@
-package lfc.common.events;
+package com.luv4code.brewery.model.events;
 
 import com.fasterxml.jackson.annotation.JsonFormat;
 import lombok.AllArgsConstructor;

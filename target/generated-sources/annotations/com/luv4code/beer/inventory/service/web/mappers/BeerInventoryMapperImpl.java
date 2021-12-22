@@ -2,15 +2,15 @@ package com.luv4code.beer.inventory.service.web.mappers;
 
 import com.luv4code.beer.inventory.service.domain.BeerInventory;
 import com.luv4code.beer.inventory.service.domain.BeerInventory.BeerInventoryBuilder;
-import com.luv4code.beer.inventory.service.web.model.BeerInventoryDto;
-import com.luv4code.beer.inventory.service.web.model.BeerInventoryDto.BeerInventoryDtoBuilder;
+import com.luv4code.brewery.model.BeerInventoryDto;
+import com.luv4code.brewery.model.BeerInventoryDto.BeerInventoryDtoBuilder;
 import javax.annotation.processing.Generated;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 @Generated(
     value = "org.mapstruct.ap.MappingProcessor",
-    date = "2021-12-14T15:47:32+0530",
+    date = "2021-12-22T17:24:25+0530",
     comments = "version: 1.3.0.Final, compiler: javac, environment: Java 11.0.12 (Oracle Corporation)"
 )
 @Component
